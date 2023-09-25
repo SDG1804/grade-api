@@ -110,6 +110,10 @@ there are certain things which the Grade API can't currently do.
 1. As a team, brainstorm some potential additional features which this program could have.
 Aim to come up with one feature per team member.
 
+- get grade using either name or utorid
+- get your average over multiple courses
+- graph your grades
+
 2. For each feature, think about whether it is possible to implement, given the current functionality
 provided by the Grade API. If it isn't possible, identify what new capabilities would need to be added.
 And if it is possible, think about what the steps would need to be taken to implement the
